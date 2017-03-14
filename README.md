@@ -1,2 +1,3 @@
 # Tensorflow_study
-study for Tensorflow library
+This is git to study for Tensorflow library.
+I will add examples to here.
